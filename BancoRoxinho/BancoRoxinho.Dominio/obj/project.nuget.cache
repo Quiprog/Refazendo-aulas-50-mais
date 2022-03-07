@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LvC4/BLEZnx+5Qg39mRhSmT8mfV4c36TjPNwoZOYo1EKbPR1DGiL8K4rYuWfbHWzAnPjYlbLq5NiusNZPSmG4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\q_lai\\OneDrive\\Área de Trabalho\\refazendo\\aulas-50-mais-2\\BancoRoxinho\\BancoRoxinho.Dominio\\BancoRoxinho.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\q_lai\\.nuget\\packages\\cpfcnpj\\2.0.5\\cpfcnpj.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
